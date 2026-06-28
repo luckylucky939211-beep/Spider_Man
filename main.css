@@ -3,9 +3,22 @@ style
         font-size: 22px;
     }
     body{
-        background-color: #080a01;
-        color: whitesmoke;
+        background-color: #0A0F24;
+        
     } 
+    h1{
+        color: #E62429;
+    }
+     h2{
+         color: #1D4ED8;
+     }
+     h3{
+         color: #FFFFFF;
+     }
+     p
+     {
+         color: #ESE7EB;
+     }
 
     a{
         color: white;
