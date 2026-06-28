@@ -1,0 +1,38 @@
+style
+    html{
+        background-color: #080a01;
+    }
+    body{
+        background-color: #080a01;
+        color: whitesmoke;
+    } 
+    h1{
+        color: #E62429;
+    }
+     h2{
+         color: #1D4ED8;
+     }
+     h3{
+         color: #FFFFFF;
+     }
+     p
+     {
+         color: lightgray;
+     }
+
+
+    a{
+        color: white;
+    }
+    a:visited{
+        color: rgb(8, 246, 238);
+    }
+    a:hover, a:active{
+        color:#f20404;
+    }
+    table tr,th,td, caption{
+        border: 1px solid #eee;
+        font-family: 'Courier New', Courier, monospace;
+        border-collapse: collapse;
+        padding: 0.5rem;
+    }
